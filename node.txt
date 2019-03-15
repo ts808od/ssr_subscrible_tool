@@ -1,6 +1,6 @@
 # 节点列表
 
-＃tky a
+# tky a
 
 ssr://MjA3LjE0OC45Mi4xMjU6MTU0Om9yaWdpbjpjaGFjaGEyMDpwbGFpbjpZbkpsWVd0MGFHVjNZV3h
 
